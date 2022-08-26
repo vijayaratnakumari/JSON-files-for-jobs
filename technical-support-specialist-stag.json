@@ -1,0 +1,13 @@
+{
+  "function":"create requisition",
+  "data": { 
+	  "position_title":"technical-support-specialist-stag",
+	  "specialty_code":13,
+	  "short_job_description":"technical-support-specialist-stag",
+	  "job_description":"technical-support-specialist-stag",
+          "channel_info": "ats-development",
+          "channelid": "C031P7HQYE9",
+	  "employer_id":1,
+	  "due_date":  "2022-12-31"
+  }
+}

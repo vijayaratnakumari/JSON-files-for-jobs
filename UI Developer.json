@@ -1,0 +1,14 @@
+{
+  "function":"update requisition",
+  "requisition_id": 34,
+  "data": { 
+	  "position_title":"ui-developer",
+	  "specialty_code":13,
+	  "short_job_description":"ui-developer",
+	  "job_description":"ui-developer\n5+ year Node.j boot\n8+ infrastructure development experience",
+          "channel_info": "ats-development",
+          "channelid": "C01P9SUL4BZ",
+	  "employer_id":1,
+	  "due_date":  "2022-12-31"
+  }
+}

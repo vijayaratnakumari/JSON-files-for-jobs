@@ -1,0 +1,15 @@
+{
+ "function":"update requisition",
+ "requisition_id":86,
+ "slack_channel":"johndeere-java ",
+   "data": {
+   "position_title":"JohnDeere-Java",
+   "specialty_code":13,
+   "short_job_description":"AWS certification Java required",
+   "job_description":"<ul/><li/>Previous experience in programming/software development.<li/>Software development processes experience. <li/>Participating in Agile Development. <li/>Experience working in an Agile Environment.<li/><b>Assessment :</b>  Java or Scala.<li/>AWS certification, Java (required) , Scala (preferred but not required), RDBMS, NOSQL, Test Driven development ISG Data Platform is looking for passionate developers to support product.<li/><b>REQUIRED:</b> Java 8, Relational databases (Postgres/Aurora etc), REST APIs , Spring Boot, and hands on experience with AWS.<li/> <b>PREFERRED:</b> Spring Data, Redis/Memcache, AWS certification.",     
+         "channel_info": "johndeere-java",
+         "channelid": "C033NF6HHAQ",
+   "employer_id":1,
+   "due_date":  "2022-12-31"
+  }
+ }

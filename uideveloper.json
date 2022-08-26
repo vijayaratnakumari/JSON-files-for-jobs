@@ -1,0 +1,13 @@
+{
+    "function":"create requisition",
+      "data": {
+      "position_title":"UI Frontend React developer on Cloud Platform",
+      "specialty_code":10,
+      "short_job_description":"Expertise in single page application (SPA) architecture and deployment.  Advanced problem-solving skills and the ability to abide by coding standards and best practices.",
+      "job_description": "<ul/><li/>Detailed experience writing modern JavaScript and using frameworks, including React, to build compelling web applications.  <li/>Expertise in single page application (SPA) architecture and deployment.  Advanced problem-solving skills and the ability to abide by coding standards and best practices.  <li/>An exceptional eye for detail to spot design and user experience issues and the ability to <li/>communicate effectively with designers <li/>Solid understanding of web application security & performance best-practices <li/>Advanced knowledge of integration with RESTful micro-services.  <li/>Experience working on a multi-tenant IAM-driven application.  <li/>Proficient in writing unit, functional and end-to-end tests and determining which is appropriate for a given feature.  <li/>CI/CD pipeline and DevOps experience <li/>Proficient in managing the agile software engineering lifecycle, using tolls like Github, CircleCI, AWS, NPM/Yarn, Rally, etc <li/>The ability and willingness to be a team player and to foster a community of knowledge sharing & mentoring.",
+            "channel_info": "ui-developer",
+            "channelid": "C01P9SUL4BZ",
+      "employer_id":1,
+      "due_date":  "2022-12-31"
+     }
+}

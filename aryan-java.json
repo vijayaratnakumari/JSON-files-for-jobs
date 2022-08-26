@@ -1,0 +1,15 @@
+{
+    "function":"update requisition",
+    "requisition_id": 37,
+    "data": { 
+        "position_title":"Sr. JAVA Developer",
+        "specialty_code":13,
+        "short_job_description":"Expert in gathering system and user requirements, building Java modules and testing features before release",
+        "job_description": "Designing, creating, and implementing Java-based applications.<ul/>   Interpreting briefs to create high-quality coding that functions according to specifications.<ul/>    Determining application functions and building objectives with the team.<ul/>    Ensuring that written code falls in line with the project objectives.<ul/>    Problem solving with other team members in the project.<ul/>    Identifying and resolving immediate and potential issues with applications.<ul/>    Drafting detailed reports on the work performed and projects completed.<ul/>    Participating in group meetings to discuss projects and objectives.<ul/>    Assisting other developers with troubleshooting, debugging, and coding.<ul/>    Meeting deadlines on fast-paced deliverables.",
+  
+            "channel_info": "sr-java-developer",
+            "channelid": "C02SAM01HHR",
+        "employer_id":1,
+        "due_date":  "2022-12-31"
+    }
+  }

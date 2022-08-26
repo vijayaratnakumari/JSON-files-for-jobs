@@ -1,0 +1,15 @@
+{
+ "function":"create requisition",
+ "requisition_id": 88,
+ "slack_channel":"infrastructure-devops",
+   "data": {
+   "position_title":"HPE-Infrastructure-DevOps",
+   "specialty_code":8,
+   "short_job_description":"Infrastructure Software development/DevOps role",
+   "job_description":"Development experience of microservice based applications using Helm, Docker, Kubernetes. Experience in GoLang with working on AWS environment",     
+         "channel_info": "infrastructure-devops",
+         "channelid": "C01MW61TVNV",
+   "employer_id":1,
+   "due_date":  "2022-12-31"
+  }
+ }

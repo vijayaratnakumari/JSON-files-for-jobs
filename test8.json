@@ -1,0 +1,15 @@
+{
+    "function":"create requisition",
+    "requisition_id": 90,
+    "slack_channel":"service-engineer-caas",
+      "data": {
+      "position_title":"HPE-Service-Engineer-CAAS",
+      "specialty_code":6,
+      "short_job_description":"HPE servers, networking, storage, and Linux OS installation",
+      "job_description":"configuration, troubleshooting, and maintenance Solid scripting skills on Linux/Unix platforms, GoLang",     
+            "channel_info": "service-engineer-caas",
+            "channelid": "C01NQRW7QHZ",
+      "employer_id":1,
+      "due_date":  "2022-12-31"
+     }  
+ }

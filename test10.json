@@ -1,0 +1,15 @@
+{
+    "function":"create requisition",
+    "requisition_id": 92,
+    "slack_channel":"system-data-engineer",
+      "data": {
+      "position_title":"HPE-System-Data-Engineer",
+      "specialty_code":6,
+      "short_job_description":"HPE servers, networking, storage, and Linux OS installation",
+      "job_description":"configuration, troubleshooting, and maintenance Solid scripting skills on Linux/Unix platforms, GoLang. Kubernetes and VMWare. Strong analytical and problem-solving skills. Knowledge of Kubernetes container-orchestration system",     
+            "channel_info": "system-data-engineer",
+            "channelid": "C02Q2K74DHT",
+      "employer_id":1,
+      "due_date":  "2022-12-31"
+     }  
+}

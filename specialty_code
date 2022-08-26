@@ -1,0 +1,18 @@
+specialty_code |    specialty 
+----------------+------------------------
+       0 | solution_architect  
+       1 | ux_engineer
+       2 | qa_automation_engineer
+       3 | devsecops
+       4 | tech_writer
+       5 | performance_engineer
+       6 | caas_system_engineer
+       7 | application_architect
+       8 | devops
+       9 | dc_lab_engineer
+       10 | ui_developer
+       11 | project_manager
+       12 | scrum_master
+       13 | java_developer
+       14 | athlete
+       15 | system_engineer 

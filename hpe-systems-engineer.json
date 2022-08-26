@@ -1,0 +1,15 @@
+{
+	"function":"update requisition",
+	"requisition_id": 81,
+	"data": { 
+		"position_title":"HPE-Systems-Engineer",
+		"specialty_code":15,
+		"short_job_description":"Strong experience setting/maintaining Data Center infrastructure (HPE servers, networking,  storage)",
+		"job_description": "<ul/><li/>Strong experience setting/maintaining Data Center infrastructure (HPE servers, networking,  storage).<li/>Experience on Linux OS installation, configuration, troubleshooting, and maintenance. <li/>Solid scripting skills on Linux/Unix platforms. <li/>Knowledge of Linux/UNIX  internals. <li/>Experience desired with Kubernetes, Dockers, and VMWare. <li/>Strong analytical and problem-solving skills.<li/>Excellent communication skills",
+			  "channel_info": "hpe-systems-engineer",
+			  "channelid": "C03EVL917KK",
+		"employer_id":1,
+		"email_id": "info@sarithm.com",
+		"due_date":  "2022-12-31"
+	}
+  }

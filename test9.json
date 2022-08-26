@@ -1,0 +1,15 @@
+{
+    "function":"create requisition",
+    "requisition_id": 91,
+    "slack_channel":"software-engineer-with-golang",
+      "data": {
+      "position_title":"HPE-Software-Engineer-With-GoLang",
+      "specialty_code":8,
+      "short_job_description":"software development/DevOps role Experience with implementing, operating and optimizing CI/CD pipelines using CircleCI, Jenkins, etc.",
+      "job_description":" Hands-on development experience of microservice based applications using Helm, Docker, Kubernetes. Experience in GoLang with working on AWS environment Experience on Linux/Unix platform Experience with Terraform is a plus. Experience with Agile, Scrum, and DevOps methodologies",     
+            "channel_info": "software-engineer-with-golang",
+            "channelid": "C029963M3GD",
+      "employer_id":1,
+      "due_date":  "2022-12-31"
+     }   
+}

@@ -1,0 +1,13 @@
+{
+  "function":"create requisition",
+  "data": { 
+	  "position_title":"system-data-engineer",
+	  "specialty_code":13,
+	  "short_job_description":"system-data-engineerr",
+	  "job_description":"system-data-engineer",
+          "channel_info": "ats-development",
+          "channelid": "C031P7HQYE9",
+	  "employer_id":1,
+	  "due_date":  "2022-12-31"
+  }
+}

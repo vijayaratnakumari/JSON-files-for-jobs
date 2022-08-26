@@ -1,0 +1,14 @@
+{
+ "function":"update requisition",
+ "requisition_id": 82,
+   "data": { 
+   "position_title":"HPE-Lab-Resource",
+   "specialty_code":9,
+   "short_job_description":" Helping install servers and switches in racks, un racking servers ",
+   "job_description": " Responsible for helping install servers and switches in racks. <ul/>  un racking servers and racking replacements <ul/> Ethernet and power cable wiring fiber cable wiring replacing disk drives and memory. <ul/> diagnosing hardware issues as well as some software issues.",
+		 "channel_info": "hpe-lab-resource",
+		 "channelid": "C01Q4T7Q545",
+   "employer_id":1,
+   "due_date":  "2022-12-31"
+  }
+ }

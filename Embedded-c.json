@@ -1,0 +1,14 @@
+{
+  "function":"update requisition",
+  "requisition_id":83,
+    "data": {
+    "position_title":"JohnDeere Embedded Python",
+    "specialty_code":13,
+    "short_job_description":"Embedded C programming on microcontrollers, python automated software functional test development, data analysis of sensor performance",
+    "job_description":"<ul/><li/>Education: Computer Science, Mathematics or Physics. Experience: At least 1 year of applicable experience. <li/> <b>Travel:</b><li/>Needs to be on-site for 1-2 weeks for initial training, tool installation. <li/> Travel on-site at most once every 2 months for in-person discussion. <li/><b>Required skills:</b> <li/> Python or other scripting language experience (good command of language, design practices and understanding of functions/libraries) this could also be MATLAB. <li/>NumPy,Pandas, Plotting/charts.<li/> <b>At least one of these skill areas:</b><li/><b>Data analysis.</b><li/> Practical experience with statistics (mean, standard deviation, R2, etc). <li/>Best-fit or time synchronization of multiple data sets. <li/>PCA (Principle Component Analysis).<li/><b>Signal processing</b> <li/>Frequency analysis FFT, bode plots. <li/> Z-plane analysis - IIR. <li/>Digital filters (IIR, FIR, Chebyshev, etc.<li/>Kalman filtering. <li/>Time-frequency analysis Wavelet",     
+          "channel_info": "embedded-c-developer",
+          "channelid": "C03DX9BHMLK",
+    "employer_id":1,
+    "due_date":  "2022-12-31"
+  }
+ }

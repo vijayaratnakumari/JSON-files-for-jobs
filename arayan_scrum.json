@@ -1,0 +1,15 @@
+{
+  "function":"update requisition",
+  "requisition_id": 34,
+  "data": { 
+	  "position_title":"scrum java master",
+	  "specialty_code":13,
+	  "short_job_description":"The scrum master helps to facilitate scrum to the larger team by ensuring the scrum framework is followed",
+	  "job_description": "Facilitate internal communication and effective collaboration, <br/>  Be the point of contact for external communications (e.g. from customers or stakeholders) <br/>   Work with product owners to handle backlogs and new requests <br/>     Resolve conflicts and remove obstacles that occur <br/>      Help teams implement changes effectively <br/>      Ensure deliverables are up to quality standards at the end of each sprint <br/>   Guide development teams to higher scrum maturity",
+
+          "channel_info": "ats-development",
+          "channelid": "C01KRSGAZL0",
+	  "employer_id":1,
+	  "due_date":  "2022-12-31"
+  }
+}

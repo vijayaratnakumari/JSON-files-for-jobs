@@ -1,0 +1,16 @@
+{
+ "function":"update requisition",
+ "requisition_id":85,
+   "data": {
+     "position_title":"HPE-GoLang-Bobs-Project",
+     "specialty_code":3,
+     "short_job_description":"Understanding of container and orchestration technologies Docker and Kubernetes. Developing with one or more languages such as Golang (preferred) React (preferred) Python Java NodeJS etc. microservice architecture REST APIs gRPC",
+     "job_description": "<ul/><li/> Bachelors degree in Computer Science, Information Systems, or compensating experience.<li/> Years Experience developing with one or more languages such as Golang (preferred), React (preferred), Python, Java, NodeJS, etc.<li/> Experience with microservice architecture, REST, APIs gRPC Strong Linux development background. <li/> Understanding of container and orchestration technologies Docker and Kubernetes. <li/> Experience with public cloud and SDKs/ APIs for AWS, Azure or GCP. <li/> Experience managing infrastructure as code, both on-prem and cloud based. <li/>Experience and understanding of Agile framework. <li/>Experience architecting and designing for software applications running on multiple platform types. <li/>Experience or understanding of Test-Driven Development. <li/>Understanding of testing, coding, and debugging procedures. <li/>Good analytical and problem-solving skills. <li/>Able to learn quickly and work well independently. <li/>Good written and verbal communication skills including mastery in English",      
+           "channel_info": "hpe-golang-bobs-project",
+           "channelid": "C034VNXFDKP",
+     "employer_id":1,
+     "due_date":  "2022-12-31"
+  }
+ }
+
+ file extention 

@@ -1,0 +1,15 @@
+{
+    "function":"create requisition",
+    "requisition_id": 93,
+    "slack_channel":"technical-support-specialist-stag",
+      "data": {
+      "position_title":"HPE-Technical-Support-Specialist-Stag",
+      "specialty_code":4,
+      "short_job_description":"Technical use cases used by GreenLake Central engineering teams.",
+      "job_description":"HPE GreenLake Cloud Services team is currently seeking highly qualified and motivated information developers. <ul/>In this role, you will work as a member of a team documenting",     
+            "channel_info": "technical-support-specialist-stag",
+            "channelid": "C02H653FE10",
+      "employer_id":1,
+      "due_date":  "2022-12-31"
+     }
+}

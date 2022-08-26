@@ -1,0 +1,14 @@
+{
+    "function":"update requisition",
+    "requisition_id": 89,
+      "data": {
+      "position_title":"JohnDeere Cloud Software Engineer",
+      "specialty_code":8,
+      "short_job_description":"As a Cloud Software Engineer for John Deere Technology Innovation Center Ames, you will perform software development for John Deere AWS and Azure Cloud Platforms Landing Zone team and products",
+      "job_description":"<ul/><li/>Operate within an Agile team and participate in all aspects of that team's work. <li/>Work within established guidelines such as coding standards, workflow, or tool standards. <li/>Specialize in working on cloud computing systems and technologies.<li/> Work with several other team members in the course of developing cloud software. <li/> Other areas of experience or interest that will help us place you on the right team include: <li/> Front-End development experience with React. <li/>3 or more years of experience with Java development.<li/> 3 or more years of experience with Python development. <li/>Experience with communicating technical decisions and their rationales to our clients and development teams. <li/>Ability to work with complex cloud environments requiring high performance and scalability.",     
+            "channel_info": "johndeere-devops",
+            "channelid": "C03G0TVHVT6",
+      "employer_id":1,
+      "due_date":  "2022-12-31"
+     }  
+ }

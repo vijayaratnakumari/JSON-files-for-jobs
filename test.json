@@ -1,0 +1,16 @@
+{
+ "function":"create requisition",
+ "slack_channel":"hpe-systems-engineer",
+  "requisition_id": 81,
+  "data": {
+    "position_title":"hpe-systems-engineer",
+    "specialty_code":6,
+    "short_job_description":"hpe-systems-engineer",
+    "job_description":"hpe-systems-engineer using Linux Administation",
+
+          "channel_info": "hpe-systems-engineer",
+          "channelid": "C03EVL917KK",
+    "employer_id":1,
+    "due_date":  "2022-12-31"
+  }
+}

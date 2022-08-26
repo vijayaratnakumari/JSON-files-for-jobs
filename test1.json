@@ -1,0 +1,16 @@
+{
+ "function":"create requisition",
+ "slack_channel":"hpe-lab-resource",
+ " requisition_id":82,
+  "data": {
+       "position_title":"hpe-lab-resource",
+       "specialty_code":9,
+       "short_job_description":"hpe-lab-resource",
+       "job_description":"hpe-lab-resource",
+   
+             "channel_info": "hpe-lab-resource",
+             "channelid": "C01Q4T7Q545",
+       "employer_id":1,
+       "due_date":  "2022-12-31"
+     }
+   }
